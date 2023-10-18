@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+}
+header {
+  background-color: black;
+}
+h1 {
+  color: rgb(187, 9, 9);
+}
+a {
+  color: rgb(196, 18, 18);
+  text-decoration: rgb(199, 13, 13);
+}
+div {
+  border: blueviolet;
+  width: 300px;
+}
+footer {
+  color: red;
+}
